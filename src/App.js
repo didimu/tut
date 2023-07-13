@@ -10,7 +10,7 @@ function App() {
       <Header></Header>
       <Content></Content>
       <Footer>하단입니다.222 옆자리에서 수정 -  나도 수정했습니다.
-        2차 수저했습니다. 2023.07.13목요일
+        2차 수저했습니다. 2023.07.13목요일 수정합니다
       </Footer>
        
     </div>
